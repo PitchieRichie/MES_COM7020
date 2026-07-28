@@ -10,23 +10,19 @@ The PoC demonstrates a **batch analytics layer for short-term electricity demand
 
 ```text
 MES_COM7020/
-├── README.md
-├── requirements.txt
-├── .gitignore
-├── Designing a Cloud - MES_014517.docx
-├── PoC Data_105602.xlsx
-├── mes_poc_generation_and_forecasting.ipynb
-└── support/
-    ├── generate_mes_submission.py
-    └── output/
-        ├── metrics.csv
-        └── figs/
-            ├── fig1_shared_responsibility.png
-            ├── fig2_architecture.png
-            ├── fig3_dataflow.png
-            ├── fig4_forecast_vs_actual.png
-            ├── fig5_feature_importance.png
-            └── fig6_daily_profile.png
+ README.md
+requirements.txt
+Designing a Cloud - MES_014517.docx
+PoC Data_105602.xlsx
+ mes_poc_generation_and_forecasting.ipynb
+generate_mes_submission.py
+ metrics.csv
+ fig1_shared_responsibility.png
+fig2_architecture.png
+fig3_dataflow.png
+fig4_forecast_vs_actual.png
+fig5_feature_importance.png
+ fig6_daily_profile.png
 ```
 
 ## Proof of concept

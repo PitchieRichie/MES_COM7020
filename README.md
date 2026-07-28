@@ -13,6 +13,7 @@ MES_COM7020/
  README.md
 requirements.txt
 PoC Data_105602.xlsx
+Designing a Cloud - MES_014517.docx
  mes_poc_generation_and_forecasting.ipynb
 generate_mes_submission.py
  metrics.csv
